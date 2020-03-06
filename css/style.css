@@ -1,0 +1,60 @@
+body{
+
+	margin: 0;
+	width: 1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+h1{
+	font-size: 40px;
+}
+div{
+
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 25px;
+}
+.colorBlue{
+	color: blue;
+
+}
+.colorRed{
+	color: red;
+
+}
+.colorGreen{
+	color: green;
+
+}
+.colorYellow{
+	color: #ffb51d;
+
+}
+.first{
+
+	font-size: 30px;
+	font-style: unset;
+	text-align: initial;
+	line-height: 1;
+}
+.second{
+
+	text-align: justify;
+	font-size: 10px;
+	color:#a9a6a6;
+}
+.third{
+
+padding: 100px;
+
+font-size: 50px;
+
+background-color: #038216c4;
+
+color: white;
+}
+img{
+	width: 100%;
+}
